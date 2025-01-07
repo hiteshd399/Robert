@@ -1,0 +1,14 @@
+table,th,td{
+    border: 2px solid grey;
+    border-radius: 10px;
+
+}
+table{
+    background-color: red;
+    background-image: url("https://i.pinimg.com/736x/6c/fa/8c/6cfa8c5b54144e2e2608cc475fd51673.jpg");
+    height: 400px;
+    width: 100%;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
